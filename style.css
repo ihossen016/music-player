@@ -50,6 +50,7 @@ body{
     margin: 10px 9px;
     border: none;
     box-shadow: 2px 2px 5px #A2B1C6 , -2px -2px 11px  #fff  ;
+    cursor: pointer;
     /*background:linear-gradient(-45deg,#a2b1c6,#fff);*/
 }
 .buttons button:active{
